@@ -19,7 +19,7 @@ export default class App extends Component {
         <Container>
           <Header hasTabs androidStatusBarColor='#054E47' >
             <Left>
-              <Title> WhatsApp</Title>
+              <Title> WhatsApp Voice</Title>
             </Left>
             <Right>
               <Button transparent>
