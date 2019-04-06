@@ -23,7 +23,7 @@ export default class App extends Component {
             </Left>
             <Right>
               <Button transparent>
-                <Icon name='search' style={{ fontSize: 20 }} />
+                <Icon name='search' style={{ fontSize: 19 }} />
               </Button>
               <Button transparent>
                 <Icon name='md-more' />
